@@ -6,12 +6,9 @@ The project updates the money balance of the user's account throught an ATM. The
 
 ## How to Run
 
-First you should download the Card Foler, then follow the instructions below:
-1. CD Route of the Card Folder on your PC
-2. npm run develop
-3. Put the credentials:
-- noyagues@gmail.com
-- Nicolas1!
+Just get all the files from the Repo and run the html file with Live Server of Visual Studio. The other way is to install node and run the following comands in the project's route:
+npm install -g http-server
+http-server -c-1
 
 After that, you should open a Live Server on the standalone.html file. You can use the local server with node or the live server of Visual Studio.
 
